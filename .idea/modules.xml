@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ruaa.iml" filepath="$PROJECT_DIR$/Ruaa.iml" />
-      <module fileurl="file://F:\ANDROID\NewReleases\December-2017\Ruaa\Ruaa.iml" filepath="F:\ANDROID\NewReleases\December-2017\Ruaa\Ruaa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://F:\ANDROID\NewReleases\December-2017\Ruaa\app\app.iml" filepath="F:\ANDROID\NewReleases\December-2017\Ruaa\app\app.iml" />
     </modules>
   </component>
 </project>
